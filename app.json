@@ -9,7 +9,7 @@
   ],
   "success_url": "https://github.com/X-Gorn/BulkLoader",
   "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/BulkLoader",
+  "repository": "https://github.com/herkubot/BulkLoader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
